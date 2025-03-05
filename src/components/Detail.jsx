@@ -37,7 +37,7 @@ function Detail() {
           </button>
         </div>
       </div>
-      <footer className="footer">
+      <footer className="footer-detail">
         <p>&copy; 2025 Meilia Recipe Collection. All rights reserved.</p>
       </footer>
     </>
